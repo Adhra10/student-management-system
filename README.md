@@ -2,7 +2,7 @@
 A Student Management System developed using Java Swing, JDBC and MySQL.
 
 
-# Student Management System
+
 
 A desktop-based Student Management System developed using Java Swing, JDBC, and MySQL. This application helps manage student records through a simple graphical user interface.
 
